@@ -1,0 +1,5 @@
+C:\Users\SYLVA\Desktop\C# practice\list manipulation\list manipulation\bin\Debug\list manipulation.exe
+C:\Users\SYLVA\Desktop\C# practice\list manipulation\list manipulation\bin\Debug\list manipulation.pdb
+C:\Users\SYLVA\Desktop\C# practice\list manipulation\list manipulation\obj\x86\Debug\list manipulation.exe
+C:\Users\SYLVA\Desktop\C# practice\list manipulation\list manipulation\obj\x86\Debug\list manipulation.pdb
+C:\Users\SYLVA\Desktop\C# practice\list manipulation\list manipulation\obj\x86\Debug\list manipulation.csprojResolveAssemblyReference.cache
